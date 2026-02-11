@@ -53,7 +53,7 @@ Licensed for educational use only
 For commercial use, licensing inquiries, or special permissions:
 
 - **Contact**: Ishimwe Amos
-- **Email**: [shmwamos@gmail.com]
+- **Email**: shmwamos@gmail.com
 - **GitHub**: [@shmwamos](https://github.com/shmwamos)
 - **Repository**: https://github.com/shmwamos/trafficrwa-cdn
 
